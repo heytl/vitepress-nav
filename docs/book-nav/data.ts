@@ -110,19 +110,19 @@ export const NAV_DATA: NavData[] = [
     title: '英文站点',
     items: [
       {
-        icon: 'https://libgen.la/img/logo.png',
+        icon: 'https://libgen.la/img/favicon.ico',
         title: 'Library Genesis',
         desc: 'libgen 创世纪图书馆最新地址',
         link: 'https://libgen.la',
       },
       {
-        icon: 'https://libgen.la/img/logo.png',
+        icon: 'https://libgen.la/img/favicon.ico',
         title: 'Library Genesis2',
         desc: 'libgen 创世纪图书馆最新地址',
         link: 'https://libgen.bz',
       },
       {
-        icon: 'https://libgen.la/img/logo.png',
+        icon: 'https://libgen.la/img/favicon.ico',
         title: 'Library Genesis3',
         desc: 'libgen 创世纪图书馆最新地址',
         link: 'https://libgen.li',
@@ -174,7 +174,7 @@ export const NAV_DATA: NavData[] = [
     title: '数字古籍',
     items: [
       {
-        icon: 'http://shuge.org/favicon.ico',
+        icon: 'assets/shuge.png',
         title: '書格',
         desc: '古籍善本数字资源',
         link: 'http://shuge.org/',

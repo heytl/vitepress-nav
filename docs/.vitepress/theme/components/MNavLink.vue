@@ -46,8 +46,8 @@ const svg = computed(() => {
 
 <style lang="scss" scoped>
 .m-nav-link {
-  --m-nav-icon-box-size: 40px;
-  --m-nav-icon-size: 24px;
+  --m-nav-icon-box-size: 36px;
+  --m-nav-icon-size: 36px;
   --m-nav-box-gap: 12px;
 
   display: block;
@@ -94,6 +94,7 @@ const svg = computed(() => {
     :deep(img) {
       border-radius: 4px;
       width: var(--m-nav-icon-size);
+      height: var(--m-nav-icon-size);
     }
   }
 
