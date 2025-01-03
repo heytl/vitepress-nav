@@ -22,7 +22,7 @@ export const NAV_DATA: NavData[] = [
         link: 'https://zh.annas-archive.org/',
       },
       {
-        icon: 'assets/24h.png',
+        icon: '/icons/24h.png',
         title: '24H搜书',
         desc: '免费下载电子书，支持在线阅读和格式转换',
         link: 'https://24hbook.com/',
@@ -45,7 +45,7 @@ export const NAV_DATA: NavData[] = [
         link: 'https://zh.annas-archive.org/',
       },
       {
-        icon: 'assets/24h.png',
+        icon: '/icons/24h.png',
         title: '24H搜书',
         desc: '免费下载电子书，支持在线阅读和格式转换',
         link: 'https://24hbook.com/',
@@ -93,7 +93,7 @@ export const NAV_DATA: NavData[] = [
         link: 'https://www.zhishikoo.com/',
       },
       {
-        icon: 'assets/banshujiang.png',
+        icon: '/icons/banshujiang.png',
         title: '搬书匠',
         desc: '分享各种编程语言和软件开发电子书籍',
         link: 'http://www.banshujiang.cn/',
@@ -128,7 +128,7 @@ export const NAV_DATA: NavData[] = [
         link: 'https://libgen.li',
       },
       {
-        icon: 'assets/LibSTC.svg',
+        icon: '/icons/LibSTC.svg',
         title: 'LibSTC',
         desc: '基于 IPFS 电子书搜索引擎',
         link: 'https://libstc.cc/',
@@ -174,7 +174,7 @@ export const NAV_DATA: NavData[] = [
     title: '数字古籍',
     items: [
       {
-        icon: 'assets/shuge.png',
+        icon: '/icons/shuge.png',
         title: '書格',
         desc: '古籍善本数字资源',
         link: 'http://shuge.org/',
