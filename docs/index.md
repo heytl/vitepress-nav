@@ -8,12 +8,12 @@ hero:
   tagline: 基于 VitePress 的个人前端导航页面模板
   image:
     src: /logo.png
-    alt: 茂茂物语
+    alt: 猪阿阿的导航站
   actions:
-    # - text: 茂茂物语
-    #   link: https://notes.fe-mm.com
-    - text: 前端导航
-      link: /nav/
+    - text: 导航
+      link: /book-nav/
+    - text: 书籍导航
+      link: /book-nav/
       theme: alt
     - text: 测试页
       link: /test
