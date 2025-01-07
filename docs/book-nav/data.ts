@@ -51,13 +51,19 @@ export const NAV_DATA: NavData[] = [
         link: 'https://24hbook.com/',
       },
       {
+        icon: '/icons/hallowlib.png',
+        title: 'hallowlib',
+        desc: 'Zlibray 的中文镜像站',
+        link: 'https://bk.hallowlib.org/',
+      },
+      {
         icon: 'https://www.jiumodiary.com/images/favicon.png',
         title: '鸠摩搜索',
         desc: '电子书搜索引擎',
         link: 'https://www.jiumodiary.com/',
       },
       {
-        icon: 'https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://zhiso.cc/&size=64',
+        icon: '/icons/zhiso.png',
         title: '知搜',
         desc: '一个聚合书籍资源的搜索引擎',
         link: 'https://zhiso.cc/',
@@ -73,6 +79,12 @@ export const NAV_DATA: NavData[] = [
         title: 'liber3',
         desc: '一个开源的去中心化电子书搜索引擎',
         link: 'https://liber3.eth.limo/',
+      },
+      {
+        icon: 'https://www.owlook.com.cn/static/novels/img/favicon.ico',
+        title: 'owlook 搜小说',
+        desc: '小说搜索引擎，支持在线阅读',
+        link: 'https://www.owlook.com.cn/',
       },
     ],
   },

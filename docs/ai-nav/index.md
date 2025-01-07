@@ -8,6 +8,6 @@ import { NAV_DATA } from './data'
 </script>
 <style src="./index.scss"></style>
 
-# 书籍导航
+# AI 导航
 
 <MNavLinks v-for="{title, items} in NAV_DATA" :title="title" :items="items"/>

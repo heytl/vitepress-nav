@@ -5,7 +5,7 @@ layoutClass: 'm-home-layout'
 hero:
   name: PigAA
   text: 导航合集站
-  tagline: 基于 VitePress 的个人前端导航页面模板
+  tagline: 基于 VitePress 的个人导航合集页面
   image:
     src: /logo.png
     alt: 猪阿阿的导航站
@@ -15,6 +15,8 @@ hero:
     - text: 书籍导航
       link: /book-nav/
       theme: alt
+    - text: AI 导航
+      link: /ai-nav/
     - text: 测试页
       link: /test
       theme: alt
