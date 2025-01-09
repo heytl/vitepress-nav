@@ -10,16 +10,19 @@ hero:
     src: /logo.png
     alt: 猪阿阿的导航站
   actions:
-    - text: 导航
-      link: /book-nav/
+    - text: 影视导航
+      link: /tv/
     - text: 书籍导航
       link: /book-nav/
       theme: alt
     - text: AI 导航
       link: /ai-nav/
-    - text: 测试页
-      link: /test
+    - text: 茂茂前端导航
+      link: https://notes.fe-mm.com/nav
       theme: alt
+    # - text: 测试页
+    #   link: /test
+    #   theme: alt
 features:
   - icon: 📖
     title: 前端物语
