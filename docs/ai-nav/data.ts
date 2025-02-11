@@ -10,6 +10,18 @@ export const NAV_DATA: NavData[] = [
     title: '推荐网站',
     items: [
       {
+        icon: '/icons/metaso.svg',
+        title: '秘塔AI搜索',
+        desc: '无需登录的AI搜索引擎',
+        link: 'https://metaso.cn/',
+      },
+      {
+        icon: 'https://chat.deepseek.com/favicon.svg',
+        title: 'DeepSeek',
+        desc: '幻方量化旗下深度求索推出的开源大模型和聊天助手',
+        link: 'https://chat.deepseek.com/',
+      },
+      {
         icon: '/icons/chatgpt.png',
         title: 'ChatGPT',
         desc: '🧱OpenAI 推出的聊天机器人',
@@ -27,17 +39,17 @@ export const NAV_DATA: NavData[] = [
         desc: '🧱perplexity.ai 搜索引擎',
         link: 'https://www.perplexity.ai/',
       },
-      {
-        icon: '/icons/metaso.svg',
-        title: '秘塔AI搜索',
-        desc: '无需登录的AI搜索引擎',
-        link: 'https://metaso.cn/',
-      },
     ],
   },
   {
     title: 'AI 对话',
     items: [
+      {
+        icon: 'https://chat.deepseek.com/favicon.svg',
+        title: 'DeepSeek',
+        desc: '幻方量化旗下深度求索推出的开源大模型和聊天助手',
+        link: 'https://chat.deepseek.com/',
+      },
       {
         icon: '/icons/chatgpt.png',
         title: 'ChatGPT',
@@ -185,6 +197,12 @@ export const NAV_DATA: NavData[] = [
         title: 'amz123的AI合集',
         desc: 'AI 工具合集导航',
         link: 'https://www.amz123.com/ai',
+      },
+      {
+        icon: 'https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://monica.im/home',
+        title: 'Monica',
+        desc: '聚合多种AI的全能助手',
+        link: 'https://monica.im/home',
       },
     ],
   },
