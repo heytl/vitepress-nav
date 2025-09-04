@@ -1,7 +1,7 @@
 # <div align="center">猪阿阿导航</div>
 
 <p align="center">
-  <img src="https://ong.ruiduobao.com/logo.png" alt="home" />
+  <img src="https://ong.ruiduobao.com/logo.png" alt="home" height="120"/>
 </p>
 <p align="center"> 基于 <b>VitePress</b> 的个人导航合集页面 </p>
 
